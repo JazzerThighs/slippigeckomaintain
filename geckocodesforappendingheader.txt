@@ -1,0 +1,5 @@
+$PAL Stock Icons
+$HUD Transparency v1.1
+$Play MenuForwardSFX on Successful V-Cancel (1.02)
+$Permanent Display Number = Nana% damage (1.02)
+$Optional: CSS Clone Icons Slide Into Place
